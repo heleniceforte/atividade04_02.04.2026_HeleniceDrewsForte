@@ -1,4 +1,5 @@
-function ativarJedi(){
-    document.body.style.backgroundColor = "lightblue";
-    document.getElementById("titulo").innerText = "Modo Jedi ativado";
+function ativarModo(){
+    document.body.style.backgroundColor = "black";
+    document.body.style.color = "lime";
+    document.getElementById("titulo").innerText = "Modo Gamer Ativado";
 }
